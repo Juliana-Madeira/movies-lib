@@ -1,0 +1,19 @@
+.title {
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+    margin: 2rem 0 1rem; 
+}
+
+.title .query__text {
+    color: #f7d354;
+}
+
+.movies__container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
