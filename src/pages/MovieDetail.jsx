@@ -5,11 +5,10 @@ import {
   BsWallet2,
   BsHourglassSplit,
   BsFillFileEarmarkTextFill
-} from 'react-icons/bs'
+} from 'react-icons/Bs'
 import MovieCard from '../components/MovieCard';
 
 import '../styles/MovieDetail.css';
-// import '../styles/MovieCard.css';
 
 const baseURL = import.meta.env.VITE_API;
 const apiKey = import.meta.env.VITE_API_KEY;
