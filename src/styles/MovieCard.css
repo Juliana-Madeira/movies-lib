@@ -38,3 +38,22 @@
     background-color: transparent;
     color: #f7d354;
 }
+
+
+@media (max-width:426px){
+    .movie__card {
+        width: 80%;   
+    }
+    
+    .movie__card img,
+    .movie__card h2,
+    .movie__card p {
+        margin-bottom: 1rem;
+        text-align: center;
+    }
+
+    .movie__card h2 {
+        font-size: 1.3rem;
+    }
+    
+}
